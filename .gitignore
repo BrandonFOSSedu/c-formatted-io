@@ -5,4 +5,5 @@
 !LICENSE
 
 *.o
+*.out
 
